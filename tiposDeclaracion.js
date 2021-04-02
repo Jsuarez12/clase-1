@@ -1,5 +1,5 @@
 //Programa número 1 en Javascript
-
+/*
 var numero = 365;
 console.log( numero );
 numero = 5000;
@@ -61,6 +61,16 @@ console.log( sinValor );
 const arregloNumeros = [ 5000, 4200, 10, 30, 15, 10000 ];
 const arregloNombre = [ "Luis", "Erick", "Diego", "Ana"];
 const arregloMixto = [ 500, "Luis", 10, "Erick" ];
+*/
+
+function multiplica( primerOperando ){
+    var resultado = primerOperando + 2;
+    console.log( "El resultado es: " * resultado );
+}
+multiplica( 6 );
+
+console.log( 2 );
+
 
 
 
